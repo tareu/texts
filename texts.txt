@@ -24,9 +24,3 @@ Part 5
 
 Thermostat low. Mean eye. Dramatic and dismissed. Hoping for growth. Bringing up choking water. Talking roaming smile.
 
-<script>
-        window.addEventListener("load", () => {
-                console.log("This function is executed once the page is fully loaded");
-        });
-</script>
-</script>
